@@ -1,5 +1,5 @@
 Package: AWDutils
-Title: What the Package Does (One Line, Title Case)
+Title: Functions Adam Finds Himself Rewriting a Lot
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Adam",
