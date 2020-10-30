@@ -20,3 +20,5 @@ Imports:
     magrittr,
     tidyr,
     rlang
+URL: https://github.com/davisadamw/AWDutils
+BugReports: https://github.com/davisadamw/AWDutils/issues
