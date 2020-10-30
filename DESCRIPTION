@@ -16,4 +16,7 @@ RoxygenNote: 7.1.1
 Imports: 
     tibble,
     sf,
-    dplyr
+    dplyr,
+    magrittr,
+    tidyr,
+    rlang
